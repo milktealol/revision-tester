@@ -9,6 +9,9 @@ Takes in a set of questions to revise for exams/test questions
 3. Run 'pip install xlrd' in cmd
 
 # 1.1 Installation Guide (Mac) TBC
+1. Install Python 3.5 onwards
+2. Configure PIP
+3. Run 'python3 -m pip install xlrd'
 
 # 2.0 Usage
 1. Open 'test-bank.xlsx'
